@@ -38,3 +38,13 @@ module.exports = {
     })
   ]
 };
+
+
+// webpack dev server instaliras da osluskuje promene i on je vezan samo za front nema veze sa backendom.
+// "scripts": {
+//   "clean": "rimraf dist",
+//   "build": " npm run clean && webpack",
+//   "serve":"webpack-dev-server"
+// },
+
+// ubaci u package.json serve komandu da pokrenes Server
